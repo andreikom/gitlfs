@@ -1,2 +1,2 @@
 [lfs]
-url = "http://192.168.59.1:8080/artifactory/api/lfs/gitlfsremote"
+url = "http://192.168.59.1:8080/artifactory/api/lfs/gitlfs"
