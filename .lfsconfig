@@ -1,2 +1,2 @@
 [lfs]
-url = "https://andreik.jfrog.io/andreik/api/lfs/gitlfs"
+url = "http://localhost:8082/artifactory/api/lfs/gitlfs"
